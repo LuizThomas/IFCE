@@ -1,0 +1,6 @@
+{
+  "name": "IFCE Campus Cedro — Técnico Integrado em Informática",
+  "description": "Guia interativo para estudantes do 9º ano sobre o ingresso no IFCE Campus Cedro e o Curso Técnico Integrado em Informática.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
