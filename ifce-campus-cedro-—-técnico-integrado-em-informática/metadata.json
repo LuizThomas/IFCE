@@ -1,0 +1,6 @@
+{
+  "name": "IFCE Campus Cedro — Técnico Integrado em Informática",
+  "description": "Descubra o Curso Técnico Integrado em Informática no IFCE Campus Cedro para estudantes do 9º ano. Ensino Médio público federal e 100% gratuito.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
